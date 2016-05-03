@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "237841429152",
+    "project_id": "gcm-demo-bdbc8"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237841429152:android:3687e565ed5832ea",
+        "android_client_info": {
+          "package_name": "com.sbsatter.gcmdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTnVJOy0KTQDYzCisd0Cu8uhpJ-5Cj1gU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
